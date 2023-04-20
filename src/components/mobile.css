@@ -1,0 +1,65 @@
+.blueCircle {
+    position: absolute;
+    top: 25%;
+    left: 16%;
+    z-index: 3;
+  }
+  
+  .blueCircleIcon {
+    height: 25vmin;
+  }
+  
+  .greenCircle {
+    position: absolute;
+    top: 22%;
+    left: 28%;
+    z-index: 2;
+  }
+  
+  .greenCircleIcon {
+    height: 40vmin;
+  }
+  
+  .redCircle {
+    position: absolute;
+    top: 10%;
+    left: 36%;
+    z-index: 1;
+  }
+  
+  .redCircleIcon {
+    height: 30vmin;
+  }
+  
+  .blueCircleMini {
+    position: absolute;
+    top: 0;
+    left: 72%;
+    z-index: 3;
+  }
+  
+  .blueCircleIconMini {
+    height: 4vmin;
+  }
+  
+  .greenCircleMini {
+    position: absolute;
+    top: 55%;
+    left: 4%;
+    z-index: 2;
+  }
+  
+  .greenCircleIconMini {
+    height: 4vmin;
+  }
+  
+  .redCircleMini {
+    position: absolute;
+    top: 92%;
+    left: 82%;
+    z-index: 1
+  }
+  
+  .redCircleIconMini {
+    height: 4vmin;
+  }

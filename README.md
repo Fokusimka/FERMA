@@ -1,11 +1,19 @@
-Quick start
-STEP 1:
-YARN
-yarn install
-NPM
+# Getting Started
+
+## Step 1: Installation
+```bash
+# using npm
 npm install
-STEP 2:
-YARN
-yarn start
-NPM
+
+# OR using Yarn
+yarn install
+```
+
+## Step 2: Start Application
+```bash
+# using npm
 npm start
+
+# OR using Yarn
+yarn start
+```
